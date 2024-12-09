@@ -1,0 +1,3002 @@
+[
+    {
+        "Input Value": "123456",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "e10adc3949ba59abbe56e057f20f883e",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8195488277869583
+    },
+    {
+        "Input Value": "123456",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "7c4a8d09ca3762af61e59520943dc26494f8941b",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.865957320949175
+    },
+    {
+        "Input Value": "123456",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.56744516693109
+    },
+    {
+        "Input Value": "12345",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "827ccb0eea8a706c4c34a16891f84e7b",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6556390622295662
+    },
+    {
+        "Input Value": "12345",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "8cb2237d0679ca88db6464eac60da96345513964",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7709505944546686
+    },
+    {
+        "Input Value": "12345",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.629627297811628
+    },
+    {
+        "Input Value": "123456789",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "25f9e794323b453885f5181f1b624d0b",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6473683589017414
+    },
+    {
+        "Input Value": "123456789",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "f7c3bc1d808e04732adf679965ccc34ca7ae3441",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8153115322251026
+    },
+    {
+        "Input Value": "123456789",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.670818948411494
+    },
+    {
+        "Input Value": "password",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8042292966721747
+    },
+    {
+        "Input Value": "password",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.853055907333276
+    },
+    {
+        "Input Value": "password",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.807503516331224
+    },
+    {
+        "Input Value": "iloveyou",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "f25a2fc72690b780b2a14e140ef6a9e0",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6792292966721747
+    },
+    {
+        "Input Value": "iloveyou",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "ee8d8728f435fd550f83852aabab5234ce1da528",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5709505944546684
+    },
+    {
+        "Input Value": "iloveyou",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "e4ad93ca07acb8d908a3aa41e920ea4f4ef4f26e7f86cf8291c5db289780a5ae",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.845506696105124
+    },
+    {
+        "Input Value": "princess",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "8afa847f50a716e64932d995c8e7435a",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7570488277869583
+    },
+    {
+        "Input Value": "princess",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "775bb961b81da1ca49217a48e533c832c337154a",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6470851333950884
+    },
+    {
+        "Input Value": "princess",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "04e77bf8f95cb3e1a36a59d1e93857c411930db646b46c218a0352e432023cf2",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.9453131892755073
+    },
+    {
+        "Input Value": "1234567",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "fcea920f7412b5da7be0cf42b8c93759",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.79595859334435
+    },
+    {
+        "Input Value": "1234567",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "20eabe5d64b0e216796e834f52d61fd0b70332fc",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8464393446710154
+    },
+    {
+        "Input Value": "1234567",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8318581122623816
+    },
+    {
+        "Input Value": "rockyou",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "f806fc5a2a0d5ba2471600758452799c",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6792292966721747
+    },
+    {
+        "Input Value": "rockyou",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "f1cf651ce1a2191a760c0b2f161234f7958e26e4",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6928966084191086
+    },
+    {
+        "Input Value": "rockyou",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "4980b1f29fa32ff18c95d0ed931fd48e1ad43a729251d6eddb3cece705ed4d05",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8573018133264285
+    },
+    {
+        "Input Value": "12345678",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "25d55ad283aa400af464c76d713c07ad",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.542837797403416
+    },
+    {
+        "Input Value": "12345678",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "7c222fb2927d828af22f592134e8932480637c0d",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.615957320949175
+    },
+    {
+        "Input Value": "12345678",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8653223224198237
+    },
+    {
+        "Input Value": "abc123",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "e99a18c428cb38d5f260853678922e03",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.777518266288633
+    },
+    {
+        "Input Value": "abc123",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "6367c48dd193d56ea7b0baad25b19455e529f5ee",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.808694969562842
+    },
+    {
+        "Input Value": "abc123",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8958079609312746
+    },
+    {
+        "Input Value": "nicole",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "fc63f87c08d505264caba37514cd0cfd",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.667837797403416
+    },
+    {
+        "Input Value": "nicole",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "5fee00239940f883d4c2854e41c7f989e75278a3",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6684539577019217
+    },
+    {
+        "Input Value": "nicole",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "b54a1af8b666f61c2dd5ae8f8a543133409fd28c3b78064c5db993bf2c8e77bc",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.9300365325772657
+    },
+    {
+        "Input Value": "daniel",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "aa47f8215c6f30a0dcdb2a36a9f4168e",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.840018266288633
+    },
+    {
+        "Input Value": "daniel",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "3d0f3b9ddcacec30c4008c5e030e6c13a478cb4f",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.596039033895928
+    },
+    {
+        "Input Value": "daniel",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "bd3dae5fb91f88a4f0978222dfd58f59a124257cb081486387cbae9df11fb879",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8366472761132693
+    },
+    {
+        "Input Value": "babygirl",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "67881381dbc68d4761230131ae0008f7",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.516126767019874
+    },
+    {
+        "Input Value": "babygirl",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "b03b74363bbb6ee42ce248c7a5344e92ffe76cc7",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.563460684196428
+    },
+    {
+        "Input Value": "babygirl",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "f95fc9d255314deebeb3e3be8c7a926caa4e2415c6372befaa8fd6f069b7c4a3",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.888912556862432
+    },
+    {
+        "Input Value": "monkey",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "d0763edaa9d9bd2a9516280e9044d885",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6289280318460246
+    },
+    {
+        "Input Value": "monkey",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "ab87d24bdc7452e55738deb5f868e1f16dea5ace",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.684829508503262
+    },
+    {
+        "Input Value": "monkey",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "000c285457fc971f862a79b786476c78812c8897063c6fa9c045f579a3b2d63f",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7536778376115945
+    },
+    {
+        "Input Value": "lovely",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "061fba5bdfc076bb7362616668de87c8",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.526210641914682
+    },
+    {
+        "Input Value": "lovely",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "de3460832ea070effabbc7032d7594bbde1bb120",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.768453957701922
+    },
+    {
+        "Input Value": "lovely",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "f85b43067a280d4cc40f89cb78d8efff6e908727bc3cb43a9ae72b400d2eecc5",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.81658145556414
+    },
+    {
+        "Input Value": "jessica",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "aae039d6aa239cfc121357a825210fa3",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5542292966721747
+    },
+    {
+        "Input Value": "jessica",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "99996b911567c83cce17cdf194f314975c57ddf1",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.4460390338959277
+    },
+    {
+        "Input Value": "jessica",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "e1fc45f7880e0505ff0b6a079b9af149f225e260f59b1d20225357a8cce8ffd8",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8011539545098696
+    },
+    {
+        "Input Value": "654321",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "c33367701511b4f6020ec61ded352059",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.640319531114783
+    },
+    {
+        "Input Value": "654321",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "dd5fef9c1c1da1394d6d34b248c51be2ad740840",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.825070520364182
+    },
+    {
+        "Input Value": "654321",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "481f6cc0511143ccdd7e2d1b1b94faf0a700a8b49cd13922a70b5ae28acaa8c5",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8448100095016073
+    },
+    {
+        "Input Value": "michael",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "0acf4539a14b3aa27deeb4cbdf6e989f",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8195488277869583
+    },
+    {
+        "Input Value": "michael",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "17b9e1c64588c7fa6419b4d29dc1f4426279ba01",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.747085133395088
+    },
+    {
+        "Input Value": "michael",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "34550715062af006ac4fab288de67ecb44793c3a05c475227241535f6ef7a81b",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8668827203902905
+    },
+    {
+        "Input Value": "ashley",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "adff44c5102fca279fce7559abf66fee",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.60845859334435
+    },
+    {
+        "Input Value": "ashley",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "782f9b10621e362d5bd0def3a279b5e0908c9ebb",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7628148954723555
+    },
+    {
+        "Input Value": "ashley",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "c64975ba3cf3f9cd58459710b0a42369f34b0759c9967fb5a47eea488e8bea79",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8225273994329494
+    },
+    {
+        "Input Value": "qwerty",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "d8578edf8458ce06fbc5bb76a58c5ca4",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.438307235905091
+    },
+    {
+        "Input Value": "qwerty",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "b1b3773a05c0ed0176787a4f1574ff0075f7521e",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5816870830264422
+    },
+    {
+        "Input Value": "qwerty",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8050365325772657
+    },
+    {
+        "Input Value": "111111",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "96e79218965eb72c92a549dd5a330112",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.715018266288633
+    },
+    {
+        "Input Value": "111111",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "3d4f2bf07dc1be38b20cd6e46949a1071f9d0e3d",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.799581770147835
+    },
+    {
+        "Input Value": "111111",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "bcb15f821479b4d5772bd0ca866c00ad5f926e3580720659cc80d39c9d09802a",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.840421884241178
+    },
+    {
+        "Input Value": "iloveu",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "edbd0effac3fcc98e725920a512881e0",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6945488277869583
+    },
+    {
+        "Input Value": "iloveu",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "b78034aacf3559fffbfcb545d9a9122efb93181f",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6740244208650217
+    },
+    {
+        "Input Value": "iloveu",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "3972905cc58310b37c7989feb13592ea71cf0902fd0fe4415782ece0c469d22c",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8273191426459237
+    },
+    {
+        "Input Value": "000000",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "670b14728ad9902aecba32e22fa4f6bd",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7386085007312415
+    },
+    {
+        "Input Value": "000000",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "c984aed014aec7623a54f0591da07a85fd4b762d",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.875070520364182
+    },
+    {
+        "Input Value": "000000",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "91b4d142823f7d20c5f08df69122de43f35f057a988d9619f6d3138485c9a203",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.82151284370997
+    },
+    {
+        "Input Value": "michelle",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "2345f10bb948c5665ef91f6773b3e455",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6442475629608078
+    },
+    {
+        "Input Value": "michelle",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "7212a9e01329ea93a57f574bd9bf77695d5fdca4",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7348295085032617
+    },
+    {
+        "Input Value": "michelle",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "01621148306fc8fb7c2b95eeb5c37e375f90db53cf8313ea87c9c34c05b7e0e5",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8139636274541524
+    },
+    {
+        "Input Value": "tigger",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "f78f2477e949bee2d12a2c540fb6084f",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.702819531114783
+    },
+    {
+        "Input Value": "tigger",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "6c616f7c2d2fde9018a09f06eaefcfc7582bc7ba",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6970851333950883
+    },
+    {
+        "Input Value": "tigger",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "abc529a4b673cbbbc532e584706cb8137be876ad53269df3b97fbd40fc76fe57",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8452565018706943
+    },
+    {
+        "Input Value": "sunshine",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "0571749e2ac330a7455809c6b0e7af90",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6914280318460246
+    },
+    {
+        "Input Value": "sunshine",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "8d6e34f987851aa599257d3831a1af040886842f",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6674078582027616
+    },
+    {
+        "Input Value": "sunshine",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "a941a4c4fd0c01cddef61b8be963bf4c1e2b0811c037ce3f1835fddf6ef6c223",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.823544534518015
+    },
+    {
+        "Input Value": "chocolate",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "c378985d629e99a4e86213db0cd5e70d",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.765319531114783
+    },
+    {
+        "Input Value": "chocolate",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "891c5feef171da85aadd3fdb8130ba509b03f5ea",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5873261452560086
+    },
+    {
+        "Input Value": "chocolate",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "7499aced43869b27f505701e4edc737f0cc346add1240d4ba86fbfa251e0fc35",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.947931017385495
+    },
+    {
+        "Input Value": "password1",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "7c6a180b36896a0a8c02787eeafb0e4c",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5931390622295662
+    },
+    {
+        "Input Value": "password1",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "e38ad214943daad1d64c102faec29de4afe9da3d",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.4674078582027614
+    },
+    {
+        "Input Value": "password1",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "0b14d501a594442a01c6859541bcb3e8164d183d32937b851835442f69d5c94e",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7862380413476315
+    },
+    {
+        "Input Value": "soccer",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "da443a0ad979d5530df38ca1a74e4f80",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.527518266288633
+    },
+    {
+        "Input Value": "soccer",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.815957320949175
+    },
+    {
+        "Input Value": "soccer",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "8f27f432fcbaa4b5180a1cc7a8fa166a93cda3c1bce6f19922dd519d02f4bb39",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8550876031689865
+    },
+    {
+        "Input Value": "anthony",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "65fbef05e01fac390cb3fa073fb3e8cf",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.4445488277869583
+    },
+    {
+        "Input Value": "anthony",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "6e1a438cfe5a6c9e2165665f8c2258849ccc43f0",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.568453957701922
+    },
+    {
+        "Input Value": "anthony",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "502913bfdd49eab564282dff101e6d167321237eeec66eedb2a438ed80fdeaa0",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8253980011394533
+    },
+    {
+        "Input Value": "friends",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "28f20a02bf8a021fab4fcec48afb584e",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.3164280318460246
+    },
+    {
+        "Input Value": "friends",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "3d9209c4598bfbc38b3c096081bee3a09697e939",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.625070520364182
+    },
+    {
+        "Input Value": "friends",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "2e4b9cc2428beb7bff6a56c14d7304e472a23e890e91ef0a6b0b0380e89f9734",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8489882355820613
+    },
+    {
+        "Input Value": "butterfly",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "9fd8301ac24fb88e65d9d7cd1dd1b1ec",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7181390622295662
+    },
+    {
+        "Input Value": "butterfly",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "ba856797a6ed7651c7e6965efeead66cb632f0a5",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5816870830264422
+    },
+    {
+        "Input Value": "butterfly",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "fcfd075cbe367c158d5cfaa31fa06656a3e68f626388d96ee81b35dda4310b58",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.798937164990341
+    },
+    {
+        "Input Value": "purple",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "bb7aedfa61007447dd6efaf9f37641e3",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5070488277869583
+    },
+    {
+        "Input Value": "purple",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "afaed75406bd414820cea4a5119f90c259c05755",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.727567157116929
+    },
+    {
+        "Input Value": "purple",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "8e0a1b0ada42172886fd1297e25abf99f14396a9400acbd5f20da20289cff02f",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.781656197314632
+    },
+    {
+        "Input Value": "angel",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "f4f068e71e0d87bf0ad51e6214ab84e9",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6945488277869583
+    },
+    {
+        "Input Value": "angel",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "c8a50f632c3c4baf27fc05facb1883104e1d16ef",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.765957320949175
+    },
+    {
+        "Input Value": "angel",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "519ba91a5a5b4afb9dc66f8805ce8c442b6576316c19c6896af2fa9bda6aff71",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.746671884241178
+    },
+    {
+        "Input Value": "jordan",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "d16d377af76c99d27093abc22244b342",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.542837797403416
+    },
+    {
+        "Input Value": "jordan",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "1cb5bd5a9e45420321f44c72da5d90d7f0432ffb",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6939427079182687
+    },
+    {
+        "Input Value": "jordan",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "136c67657614311f32238751044a0a3c0294f2a521e573afa8e496992d3786ba",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8253980011394533
+    },
+    {
+        "Input Value": "liverpool",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "d177b4d1d9e6b6fa86521e4b3d00b029",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7417292966721747
+    },
+    {
+        "Input Value": "liverpool",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "068942c83f0e6994d046f7ec01b8f42ba8f317a7",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8153115322251026
+    },
+    {
+        "Input Value": "liverpool",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "9e861941ad8bf5bcb649e5fde92d712528200a216018c2437371498e6ab7683d",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.9254975629608078
+    },
+    {
+        "Input Value": "justin",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "53dd9c6005f3cdfc5a69c5c07388016d",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.402518266288633
+    },
+    {
+        "Input Value": "justin",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "0ce7911e6479995d6c346d6f03eb723b5135309e",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.665957320949175
+    },
+    {
+        "Input Value": "justin",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "102cf10b5286bad9fcfe5e275ace3ddd7dcc23931fb0ca93dc223daf9877cabd",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7600273994329494
+    },
+    {
+        "Input Value": "loveme",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "74d738020dca22a731e30058ac7242ee",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.4414280318460246
+    },
+    {
+        "Input Value": "loveme",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "81941add3e463581722bac84d02282cafb1c32c2",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.705152233310935
+    },
+    {
+        "Input Value": "loveme",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "78fe3f05768ff3a95c74ffafe366cc3474022d925ad5593af733bf8ac1ab0de6",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8407175322542364
+    },
+    {
+        "Input Value": "fuckyou",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "596a96cc7bf9108cd896f33c44aedc8a",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6914280318460246
+    },
+    {
+        "Input Value": "fuckyou",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "dd2edb87ea9eb7a32fd4057276d3a1fab861c1d5",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.808694969562842
+    },
+    {
+        "Input Value": "fuckyou",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "6161b0a284159565a0f7d5df2dd2698b5f87906cd91ff5322caf179b451f5a41",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7575629950410776
+    },
+    {
+        "Input Value": "123123",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "4297f44b13955235245b2497399d7a93",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.1914280318460246
+    },
+    {
+        "Input Value": "123123",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "601f1889667efaebb33b8c12572835da3f027f78",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7561983328100954
+    },
+    {
+        "Input Value": "123123",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.829172609267362
+    },
+    {
+        "Input Value": "football",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "37b4e2d82900d5e94b8da524fbeb33c0",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.67095859334435
+    },
+    {
+        "Input Value": "football",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "2d27b62c597ec858f6e7b54e7e58525e6a95e6d8",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.442896608419108
+    },
+    {
+        "Input Value": "football",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "6382deaf1f5dc6e792b76db4a4a7bf2ba468884e000b25e7928e621e27fb23cb",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8515631892755073
+    },
+    {
+        "Input Value": "secret",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "5ebe2294ecd0e0f08eab7690d2a6ee69",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.502620407472074
+    },
+    {
+        "Input Value": "secret",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6337834090041015
+    },
+    {
+        "Input Value": "secret",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "2bb80d537b1da3e38bd30361aa855686bde0eacd7162fef6a25fe97bf527a25b",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7776716900067484
+    },
+    {
+        "Input Value": "andrea",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "1c42f9c1ca2f65441465b43cd9339d6c",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.4300365325772657
+    },
+    {
+        "Input Value": "andrea",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "fdb87dfd199045af7165780b11640b83768a0d57",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6061983328100955
+    },
+    {
+        "Input Value": "andrea",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "5f3d6952c5c5e22077fabf461de80f1ce475752fe75afcf5ca46bac438405619",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8371931183607573
+    },
+    {
+        "Input Value": "carlos",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "dc599a9972fde3045dab59dbd1ae170b",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.578626767019874
+    },
+    {
+        "Input Value": "carlos",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "ab5e2bca84933118bbc9d48ffaccce3bac4eeb64",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.558694969562842
+    },
+    {
+        "Input Value": "carlos",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "7b85175b455060e3237e925f023053ca9515e8682a83c8b09911c724a1f8b75f",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7952054312789736
+    },
+    {
+        "Input Value": "jennifer",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "1660fe5c81c4ce64a2611494c439e1ba",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.500807235905091
+    },
+    {
+        "Input Value": "jennifer",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "e3cd9f6469fc3e1acfb9f2bdbfc5a3d2bbb8e2ad",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.599581770147835
+    },
+    {
+        "Input Value": "jennifer",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "9ce8db922a8f4a7abd859adee70bd8b7a63321265487da54cf4bed6a69eb3e1b",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.852469775058999
+    },
+    {
+        "Input Value": "joshua",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "d1133275ee2118be63a577af759fc052",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6792292966721747
+    },
+    {
+        "Input Value": "joshua",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "d6955d9721560531274cb8f50ff595a9bd39d66f",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6403999716663615
+    },
+    {
+        "Input Value": "joshua",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "fc52fabe94c0e037d2df4498e87481a6438960c9f73d517584a7a5c564535ac4",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.857662556862432
+    },
+    {
+        "Input Value": "bubbles",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "fe75bd065ff48b91c35fe8ff842f986c",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6123008763572906
+    },
+    {
+        "Input Value": "bubbles",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "75328ef481b4a7a0b3513179d2780c64d9ae2186",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8964393446710157
+    },
+    {
+        "Input Value": "bubbles",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "2ea0d25e51920dc0ba247fcda7f514f3e8ad6234e704277036df405af860ed6c",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8401716900067484
+    },
+    {
+        "Input Value": "1234567890",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "e807f1fcf82d132f9bb018ca6738a19f",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6371987351738495
+    },
+    {
+        "Input Value": "1234567890",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "01b307acba4f54f55aafc33bb06bbbf6ca803e9a",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.505152233310935
+    },
+    {
+        "Input Value": "1234567890",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8004975629608078
+    },
+    {
+        "Input Value": "superman",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "84d961568a65073a3bcf0eb216b2a576",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8164280318460246
+    },
+    {
+        "Input Value": "superman",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "18c28604dd31094a8d69dae60f1bcd347f1afc5a",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.818453957701922
+    },
+    {
+        "Input Value": "superman",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "73cd1b16c4fb83061ad18a0b29b9643a68d4640075a466dc9e51682f84a847f5",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8607833528033657
+    },
+    {
+        "Input Value": "hannah",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "eb09d5e396183f4b71c3c798158f7c07",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6945488277869583
+    },
+    {
+        "Input Value": "hannah",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "675dc611bafb0b7348dd3baf7e005b6916fb954d",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7398227820087553
+    },
+    {
+        "Input Value": "hannah",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "fc881aa34d44660e1012dec26ccda0b469d6c8359e91dc674dab4c095b9fe832",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8741388679951365
+    },
+    {
+        "Input Value": "amanda",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "6209804952225ab3d14348307b5a4a27",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.542837797403416
+    },
+    {
+        "Input Value": "amanda",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "2394eeac9fc3db56189a894e221220b6089e78d3",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8225738836114354
+    },
+    {
+        "Input Value": "amanda",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "52e8e47b38e854580afce4aade15dbd5ce0c0464da711afe71da123687d5a4cd",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.750809815267177
+    },
+    {
+        "Input Value": "loveyou",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "f74a10e1d6b2f32a47b8bcb53dac5345",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7806390622295662
+    },
+    {
+        "Input Value": "loveyou",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "f4cc6e82140048ead7015f2917eb56e3e50a1f00",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7873261452560087
+    },
+    {
+        "Input Value": "loveyou",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "848be944013cc3374ddfef3655d6816c060610161c835c71a9665e6dc18f6542",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7448612920362816
+    },
+    {
+        "Input Value": "pretty",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "2f0e7ef29748dbf6dacf8381c4cc921c",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.715018266288633
+    },
+    {
+        "Input Value": "pretty",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "162fd259d9c6c8f2c948b632bc2b8ead0a321282",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6464393446710157
+    },
+    {
+        "Input Value": "pretty",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "77049f6f8893dd97f1fcdb996b970035ea456b4d63e107edf383809a1e26e884",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8447106596232064
+    },
+    {
+        "Input Value": "basketball",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "d0199f51d2728db6011945145a1b607a",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.54595859334435
+    },
+    {
+        "Input Value": "basketball",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "468ee5cbd54e42b8aeaad13c130f780f0d091173",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.877567157116929
+    },
+    {
+        "Input Value": "basketball",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "f02c96357481972443a2eb6d2861c803fa7790fb7d0225b2f54b6beba964f4ad",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8981327203902905
+    },
+    {
+        "Input Value": "andrew",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "d914e3ecf6cc481114a3f534a5faf90b",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6167292966721747
+    },
+    {
+        "Input Value": "andrew",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "02e0a999c50b1f88df7a8f5a04e1b76b35ea6a88",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7970851333950884
+    },
+    {
+        "Input Value": "andrew",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "d979885447a413abb6d606a5d0f45c3b7809e6fde2c83f0df3426f1fc9bfed97",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.921722954832899
+    },
+    {
+        "Input Value": "angels",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "82a7c395a86348dd4bfd11bb05b71cbf",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7539280318460246
+    },
+    {
+        "Input Value": "angels",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "275e5d5f064b3db5f71ff7a2c2b5116cf0c902d3",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7282129458410016
+    },
+    {
+        "Input Value": "angels",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "c812b846bd8b54cfdf715ff2627b263a70e25cc7039e6385c0c93d2b77bdb6d4",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8607833528033657
+    },
+    {
+        "Input Value": "tweety",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "c03a5a4ba81cd3d8e59840a6f0eddad7",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6647170014624826
+    },
+    {
+        "Input Value": "tweety",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "87c8414a0dc61a17c96fd47d51758632b18be351",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7898227820087556
+    },
+    {
+        "Input Value": "tweety",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "8c68cf65b6c48e9d23d12e9a0cbfa7cba9e9ffb492e8f0022dec98d85d3d56f9",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8253980011394533
+    },
+    {
+        "Input Value": "flower",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "608f0b988db4a96066af7dd8870de96c",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.375807235905091
+    },
+    {
+        "Input Value": "flower",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "5a46b8253d07320a14cace9b4dcbf80f93dcef04",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.877567157116929
+    },
+    {
+        "Input Value": "flower",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "c06b0cfe0cc5e900c57784484094331f095bf441995c3c31ea6c75691c786c35",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6363376031689865
+    },
+    {
+        "Input Value": "playboy",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "cfe819bed5b34b02ccb68ab69ab2055b",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.651210641914682
+    },
+    {
+        "Input Value": "playboy",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "b2a491e28ddf8a34771e051242725211ef4f54fa",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5782129458410017
+    },
+    {
+        "Input Value": "playboy",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "a78ae4b4d2e8c1e7b6ef20f163cc194f5979d7db1a9b4b9806bffc5ee959b130",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.897478908203315
+    },
+    {
+        "Input Value": "hello",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "5d41402abc4b2a76b9719d911017c592",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.480337797403416
+    },
+    {
+        "Input Value": "hello",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "aaf4c61ddcc5e8a2dabede0f3b482cd9aea9434d",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6464393446710157
+    },
+    {
+        "Input Value": "hello",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.870253710565654
+    },
+    {
+        "Input Value": "elizabeth",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "4af09080574089cbece43db636e2025f",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.777518266288633
+    },
+    {
+        "Input Value": "elizabeth",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "1d2f56e6e74d722ac2f6941f29db35b391c83504",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8807095825937483
+    },
+    {
+        "Input Value": "elizabeth",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "b54f08623ae4039f55bcecba4961037fb4513d2ba9cb2b0667c5db970ac94911",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.871671884241178
+    },
+    {
+        "Input Value": "hottie",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "c37df36db804246d74e786a92488d232",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5542292966721747
+    },
+    {
+        "Input Value": "hottie",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "1d5b180702e9c654de02033adf2763f9e6d79c66",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8373261452560086
+    },
+    {
+        "Input Value": "hottie",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "b64866d9d481181a9b3cd74f1323d7e35cd0ba87b48945ac92c1619827694fd2",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8451030781525786
+    },
+    {
+        "Input Value": "tinkerbell",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "7f9a6871b86f40c330132c4fc42cda59",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8042292966721747
+    },
+    {
+        "Input Value": "tinkerbell",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "c6fbbde5bbca5955caee85e6700dcb4d6d89bd71",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5848295085032618
+    },
+    {
+        "Input Value": "tinkerbell",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "7d63546d79cc56a1b8f00da727a060d4e0b4c06608178ccc7d88cee9e3341b12",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.846774025424619
+    },
+    {
+        "Input Value": "charlie",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "bf779e0933a882808585d19455cd7937",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6136085007312415
+    },
+    {
+        "Input Value": "charlie",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "d8cd10b920dcbdb5163ca0185e402357bc27c265",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7128148954723557
+    },
+    {
+        "Input Value": "charlie",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "b9dd960c1753459a78115d3cb845a57d924b6877e805b08bd01086ccdf34433c",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8290303849724197
+    },
+    {
+        "Input Value": "samantha",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "f01e0d7992a3b7748538d02291b0beae",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6945488277869583
+    },
+    {
+        "Input Value": "samantha",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "ec5a7c3e21436a8e76716710ce551356f9aa745e",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.563460684196428
+    },
+    {
+        "Input Value": "samantha",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "c5422c052bfbd7bbd9764e0467688b62193fec4fa32a1b13af28d1708d5870ec",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.949087797403416
+    },
+    {
+        "Input Value": "barbie",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "1aef0a62ed84bb165989ab32f0ba56c2",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.765319531114783
+    },
+    {
+        "Input Value": "barbie",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "a64431388c02ce7fa2ae6a622befa56cf7f21c95",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7225738836114353
+    },
+    {
+        "Input Value": "barbie",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "15065d771f7c8746bd30c125f9bb68a5ec7a84fccd7f0a82b38e760f39521c05",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8981327203902905
+    },
+    {
+        "Input Value": "chelsea",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "91cb315a6405bfcc30e2c4571ccfb8ce",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.627620407472074
+    },
+    {
+        "Input Value": "chelsea",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "ac137c6ae0947718332991e7cb2f50eb20b62aaa",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7495817701478353
+    },
+    {
+        "Input Value": "chelsea",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "1ecd41c03ef78bd6daeaa6bb008896607a8413bf8ba6266be80327554b370a9e",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.848334423395086
+    },
+    {
+        "Input Value": "lovers",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "8dae58e3f282b974328d53f96753f4c1",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7417292966721747
+    },
+    {
+        "Input Value": "lovers",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "2f27c5970e47c4ffd0867088f6bec0f872991c65",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6348295085032616
+    },
+    {
+        "Input Value": "lovers",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "a32d9d7c6187886c3b750722bdae1514fc990af3bbfebdce881fe9c2ce700097",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.897226134606799
+    },
+    {
+        "Input Value": "teamo",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "313437c00302021eda7b4197983f4011",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.489415736636332
+    },
+    {
+        "Input Value": "teamo",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "63d62a0cf2415d1ada6887065f959f8e59b4ec5b",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.887326145256009
+    },
+    {
+        "Input Value": "teamo",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "dc71e742d453ba0320f5797cf44f181b8e946cb48a59baa090c740c6f72b338b",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.9038284700246697
+    },
+    {
+        "Input Value": "jasmine",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "f21c0d3e564c7db5ccf73c095a0b9371",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.730337797403416
+    },
+    {
+        "Input Value": "jasmine",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "5bfd08bdac5988b8c1d14a86bf8ab736db159e9f",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.652078406900582
+    },
+    {
+        "Input Value": "jasmine",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "6d1c5859550824d403d8c31af9ac673b7ba206e6f87e61e096a017299f74d63f",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.9453131892755073
+    },
+    {
+        "Input Value": "brandon",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "fc275ac3498d6ab0f0b4389f8e94422c",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7570488277869583
+    },
+    {
+        "Input Value": "brandon",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "ef971ee38bba25d9ac8a840d235457a038448b09",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.768453957701922
+    },
+    {
+        "Input Value": "brandon",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "fdb7d5c701a3b4a9981e98fd486d22b51b51f2e91605540e57081d440573c009",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8764636274541524
+    },
+    {
+        "Input Value": "666666",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "f379eaf3c831b04de153469d1bec345e",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.715018266288633
+    },
+    {
+        "Input Value": "666666",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "1411678a0b9e25ee2f7c8b2f7ac92b6a74b3f9c5",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.808694969562842
+    },
+    {
+        "Input Value": "666666",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.817334617629516
+    },
+    {
+        "Input Value": "shadow",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "3bf1114a986ba87ed28fc1b5884fc2f8",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6167292966721747
+    },
+    {
+        "Input Value": "shadow",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "ed9d3d832af899035363a69fd53cd3be8f71501c",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6837834090041013
+    },
+    {
+        "Input Value": "shadow",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "0bb09d80600eec3eb9d7793a6f859bedde2a2d83899b70bd78e961ed674b32f4",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.748595605109735
+    },
+    {
+        "Input Value": "melissa",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "ff5390bde5a4cf0aa2006cf2198efd29",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6914280318460246
+    },
+    {
+        "Input Value": "melissa",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "de4ab6e26db462b930510ba83e9f80b7db2bef88",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.705152233310935
+    },
+    {
+        "Input Value": "melissa",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "8def3bf5d78abb247b4829e87b52b10d79b1cd0e2aec529930ed692ee8d1cd2c",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.811095605109735
+    },
+    {
+        "Input Value": "eminem",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "26b637ed41273425be243e8d42e5b461",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.328626767019874
+    },
+    {
+        "Input Value": "eminem",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "5254792d5579984f98c41d1858e1722b2dbcc6b3",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6282129458410015
+    },
+    {
+        "Input Value": "eminem",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "9f0c989dd3e4c7a6ef5512d6347a9af24b95ee886e9874edbebf2055166c5ed6",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8763530781525786
+    },
+    {
+        "Input Value": "matthew",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "e6a5ba0842a531163425d66839569a68",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.4681390622295662
+    },
+    {
+        "Input Value": "matthew",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "f80d0ca101e967b50b730ddf8e8aca0de85e8df6",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.615957320949175
+    },
+    {
+        "Input Value": "matthew",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "68be7550846ecd878947b4eb0ac13d3cca3cf6c4940c94d90163e0a15e947203",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8528733930115444
+    },
+    {
+        "Input Value": "robert",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "684c851af59965b680086b7b4896ff98",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.3317475629608078
+    },
+    {
+        "Input Value": "robert",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "12e9293ec6b30c7fa8a0926af42807e929c1684f",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7093407582869147
+    },
+    {
+        "Input Value": "robert",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "4007d46292298e83da10d0763d95d5139fe0c157148d0587aa912170414ccba6",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8452136274541524
+    },
+    {
+        "Input Value": "danielle",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "d05a90b8f6326735fd07fcfc7b92e47a",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7889097655573916
+    },
+    {
+        "Input Value": "danielle",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "4e861409dbad2b3a8db9240779d21184bd82a860",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.565957320949175
+    },
+    {
+        "Input Value": "danielle",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "e5d503d4582229c4c9abe250e49654765c885eb49bb49df7f1861bb79fc7346e",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.852469775058999
+    },
+    {
+        "Input Value": "forever",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "d7af994f1f1ef8b5e3beb9f7fb139f57",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.315120407472074
+    },
+    {
+        "Input Value": "forever",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "e07f8c4ab682212744526982f0f08d336e1c9041",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.825070520364182
+    },
+    {
+        "Input Value": "forever",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "2070f725ff1c765b73c498de52bc419377979691f6100de3ed99794aeb40d988",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.85276284370997
+    },
+    {
+        "Input Value": "family",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "0d3fda0bdbb9d619e09cdf3eecba7999",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.355337797403416
+    },
+    {
+        "Input Value": "family",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "c33f059b0ca7725fbfd6c9ea4f2f012cc7ac5a74",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6873261452560087
+    },
+    {
+        "Input Value": "family",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "d34a569ab7aaa54dacd715ae64953455d86b768846cd0085ef4e9e7471489b7b",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7243489791180653
+    },
+    {
+        "Input Value": "jonathan",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "78842815248300fa6ae79f7776a5080a",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.4618974703476995
+    },
+    {
+        "Input Value": "jonathan",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "3692bfa45759a67d83aedf0045f6cb635a966abf",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6873261452560087
+    },
+    {
+        "Input Value": "jonathan",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "628612b803c647a7de70f0306c6bbc489d8b75e6ffef150b70a1553a5a7abbeb",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8435426801821118
+    },
+    {
+        "Input Value": "987654321",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "6ebe76c9fb411be97b3b0d48b791a7c9",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5306390622295662
+    },
+    {
+        "Input Value": "987654321",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "bfe54caa6d483cc3887dce9d1b8eb91408f1ea7a",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7561983328100954
+    },
+    {
+        "Input Value": "987654321",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "8a9bcf1e51e812d0af8465a8dbcc9f741064bf0af3b3d08e6b0246437c19f7fb",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.9160272051985197
+    },
+    {
+        "Input Value": "computer",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "df53ca268240ca76670c8566ee54568a",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5070488277869583
+    },
+    {
+        "Input Value": "computer",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "c60266a8adad2f8ee67d793b4fd3fd0ffd73cc61",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6782129458410013
+    },
+    {
+        "Input Value": "computer",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "aa97302150fce811425cd84537028a5afbe37e3f1362ad45a51d467e17afdc9c",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.884373587245974
+    },
+    {
+        "Input Value": "whatever",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "008c5926ca861023c1d2a36653fd88e2",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5542292966721747
+    },
+    {
+        "Input Value": "whatever",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "d869db7fe62fb07c25a0403ecaea55031744b5fb",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.877567157116929
+    },
+    {
+        "Input Value": "whatever",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "85738f8f9a7f1b04b5329c590ebcb9e425925c6d0984089c43a022de4f19c281",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8480816497985697
+    },
+    {
+        "Input Value": "dragon",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "8621ffdbc5698829397d97767ac13db3",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5931390622295662
+    },
+    {
+        "Input Value": "dragon",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "af8978b1797b72acfff9595a5a2a373ec3d9106d",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7134606841964284
+    },
+    {
+        "Input Value": "dragon",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "a9c43be948c5cabd56ef2bacffb77cdaa5eec49dd5eb0cc4129cf3eda5f0e74c",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.731505776844511
+    },
+    {
+        "Input Value": "vanessa",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "282bbbfb69da08d03ff4bcf34a94bc53",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5306390622295662
+    },
+    {
+        "Input Value": "vanessa",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "410013f679f8a5f0c2995c0432467124ef7cea10",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7061983328100956
+    },
+    {
+        "Input Value": "vanessa",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "a051e62c16c385ab646c4161a67a338bc8e7efdff2c797e53fcdb72b9fc2b4d0",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.921722954832899
+    },
+    {
+        "Input Value": "cookie",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "2dccd1ab3e03990aea77359831c85ca2",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6014097655573916
+    },
+    {
+        "Input Value": "cookie",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "59c826fc854197cbd4d1083bce8fc00d0761e8b3",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.784829508503262
+    },
+    {
+        "Input Value": "cookie",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "d7e83e28a04b537e64424546b14caf9b67bad2f28dabce68116e0d372319fa00",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.9326114862707113
+    },
+    {
+        "Input Value": "naruto",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "cf9ee5bcb36b4936dd7064ee9b2f139e",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.590018266288633
+    },
+    {
+        "Input Value": "naruto",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "20beed61f5d64368b9aba66e91a1d2a090a0d4ae",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5873261452560086
+    },
+    {
+        "Input Value": "naruto",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "846f6a76ffc111552f1c9ca3a06d989d0c9c9b79c4fc25ff67f6207be512955c",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7532742196590494
+    },
+    {
+        "Input Value": "summer",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "6b1628b016dff46e6fa35684be6acc96",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.577819531114783
+    },
+    {
+        "Input Value": "summer",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "6420ed4d831b436d1e92d25605d18297296374e3",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5848295085032618
+    },
+    {
+        "Input Value": "summer",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "e83664255c6963e962bb20f9fcfaad1b570ddf5da69f5444ed37e5260f3ef689",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.839768072054203
+    },
+    {
+        "Input Value": "sweety",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "de1e3b0952476aae6888f98ea0e4ac11",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7386085007312415
+    },
+    {
+        "Input Value": "sweety",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "15eabb8159c574ddb45fea23e853e18bc599ce87",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.637326145256009
+    },
+    {
+        "Input Value": "sweety",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "0bb9e54818a113b7490dbca2962246a313dd59b95613b679555cf66d7bd55931",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.772478908203315
+    },
+    {
+        "Input Value": "spongebob",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "e1964798cfe86e914af895f8d0291812",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5397170014624826
+    },
+    {
+        "Input Value": "spongebob",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "d3d918987cc94953e596480e4759a8f8c209fc16",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.702655596558188
+    },
+    {
+        "Input Value": "spongebob",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "f0e2e750791171b0391b682ec35835bd6a5c3f7c8d1d0191451ec77b4d75f240",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.866479102437745
+    },
+    {
+        "Input Value": "joseph",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "cb07901c53218323c4ceacdea4b23c98",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6167292966721747
+    },
+    {
+        "Input Value": "joseph",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "461476587780aa9fa5611ea6dc3912c146a91760",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.618453957701922
+    },
+    {
+        "Input Value": "joseph",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "7ee8118150e0ce023742beba6f10bf23aabbf0bc2c182f36fd1a6753cd21b4c6",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8006081122623816
+    },
+    {
+        "Input Value": "junior",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "b03e3fd2b3d22ff6df2796c412b09311",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5039280318460246
+    },
+    {
+        "Input Value": "junior",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "9009337cf16333f07109b593405cf7552ed8059a",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6282129458410015
+    },
+    {
+        "Input Value": "junior",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "8fdd880f097cddfef86895d2c48f649e943bed14639f0ad29671508b536c9fc1",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8244511203015064
+    },
+    {
+        "Input Value": "softball",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "92290ccb8f7b2beb4c57ef1f7a3d5947",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7181390622295662
+    },
+    {
+        "Input Value": "softball",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "151bd2998f0db86caeddf088a50e8c0c84bc713b",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7653115322251023
+    },
+    {
+        "Input Value": "softball",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "ef2266aa5730c71ac49636cfabc87cb705a2371dd9d3aaa8295235244d5574df",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.830187164990341
+    },
+    {
+        "Input Value": "taylor",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "7d8bc5f1a8d3787d06ef11c97d4655df",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.667837797403416
+    },
+    {
+        "Input Value": "taylor",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "5d74ae093a16a00e5af127763f2dc7e13988f162",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.808694969562842
+    },
+    {
+        "Input Value": "taylor",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "8e924025a26c584ad4ac6365116e09b852ae6b7016da4c0851e269348d93c228",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.794508744675457
+    },
+    {
+        "Input Value": "yellow",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "d487dd0b55dfcacdd920ccbdaeafa351",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5498008763572906
+    },
+    {
+        "Input Value": "yellow",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "96de5543d183d7de52ac5fa21c46fc811f673f89",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.746439344671016
+    },
+    {
+        "Input Value": "yellow",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "c685a2c9bab235ccdd2ab0ea92281a521c8aaf37895493d080070ea00fc7f5d7",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8100784700246697
+    },
+    {
+        "Input Value": "daniela",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "07a88e756847244f3496f63f473d6085",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.465018266288633
+    },
+    {
+        "Input Value": "daniela",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "47a39aecfc096e6d80ed5c51733906b263ab9eba",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8153115322251026
+    },
+    {
+        "Input Value": "daniela",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "e4ee06d13f52021bfbfc793ebce404608a0efd7786e1accad9d113d099fbab48",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8965723224198237
+    },
+    {
+        "Input Value": "lauren",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "2760c7b84d4bad6b0b12d7c1a6c5e1a4",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.5848683589017414
+    },
+    {
+        "Input Value": "lauren",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "2475fcb006e003dc09ea816345faa8ef00b58654",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7674078582027617
+    },
+    {
+        "Input Value": "lauren",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "b918c3f9116ce3a61efd71a1bada0d46c8f575283ce5d5798454a4abfb56ae79",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.8839699692934286
+    },
+    {
+        "Input Value": "mickey",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "4d5257e5acc7fcac2f5dcd66c4e78f9a",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.42095859334435
+    },
+    {
+        "Input Value": "mickey",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "1aa25ead3880825480b6c0197552d90eb5d48d23",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7225738836114353
+    },
+    {
+        "Input Value": "mickey",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "33c614ca3cf78827a85dc0d8d06bfcf8c4d923fd23c813acd50b80ed2d4d4fb3",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.7351295406163905
+    },
+    {
+        "Input Value": "princesa",
+        "Hash Algorithm": "MD5",
+        "Hash Value": "ac3665f6acae8bd267ed92a71a71313b",
+        "Length": 32,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.6289280318460246
+    },
+    {
+        "Input Value": "princesa",
+        "Hash Algorithm": "SHA1",
+        "Hash Value": "3718e00ac45cec21633e2211af9b77cd0a193698",
+        "Length": 40,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.818453957701922
+    },
+    {
+        "Input Value": "princesa",
+        "Hash Algorithm": "SHA256",
+        "Hash Value": "649a507b53359ecd0e0d662ad4261bfe255ec06b40f0dbb7ac74818d9e93dd19",
+        "Length": 64,
+        "Contains Numbers": true,
+        "Contains Letters": true,
+        "Contains Special Characters": false,
+        "Entropy": 3.91033145556414
+    }
+]
